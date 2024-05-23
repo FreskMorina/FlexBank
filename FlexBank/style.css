@@ -1,0 +1,9 @@
+#fotoo {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+}
+#dyant {
+    display: flex;
+    justify-content: space-between;
+}
