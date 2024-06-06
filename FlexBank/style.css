@@ -111,3 +111,26 @@ margin-top: 20px;
     justify-content: space-evenly;
     width: 183px;
 }
+
+#Teb{
+    height: 6em;
+    width: 22em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    -webkit-box-shadow: -2px 0px 14px 3px rgba(119,119,119,0.66); 
+    box-shadow: -2px 0px 14px 3px rgba(119,119,119,0.66);
+border-radius: 10px;
+margin-top: 20px;
+}
+
+#buttonblue{
+    color: white;
+     border: 1px solid white;
+     border-radius: 4px;
+     width:50px
+ }
+
+#krejt11 {
+    display: flex;
+} 
